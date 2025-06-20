@@ -1,0 +1,16 @@
+# Related Details: somelink
+# Additional Notes: some notes
+
+File Name,Model,Optimized Parameters,RMSE
+"Sample3_0.5_radial.csv","Neo-Hookean","C1: 0.1349","0.0833"
+"Sample2_0.5_radial.csv","Neo-Hookean","C1: 0.1711","0.0946"
+"Sample1_0.5_radial.csv","Neo-Hookean","C1: 0.2161","0.094"
+"Sample3_0.5_circumferential.csv","Neo-Hookean","C1: 3.0578","0.8259"
+"Sample2_0.5_circumferential.csv","Neo-Hookean","C1: 3.1611","0.6885"
+"Sample1_0.5_circumferential.csv","Neo-Hookean","C1: 3.0638","0.8517"
+"Sample3_0.2_radial.csv","Neo-Hookean","C1: 0.2293","0.1245"
+"Sample2_0.2_radial.csv","Neo-Hookean","C1: 0.2691","0.1967"
+"Sample1_0.2_radial.csv","Neo-Hookean","C1: 0.2925","0.1359"
+"Sample3_0.2_circumferential.csv","Neo-Hookean","C1: 2.3998","0.7618"
+"Sample2_0.2_circumferential.csv","Neo-Hookean","C1: 2.8938","0.7677"
+"Sample1_0.2_circumferential.csv","Neo-Hookean","C1: 2.8197","0.5102"
