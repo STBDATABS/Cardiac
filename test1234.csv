@@ -1,0 +1,7 @@
+# Related Details: testlink
+# Additional Notes: experimentaldetails
+
+File Name,Model,Optimized Parameters,RMSE
+"Sample1_0.5_circumferential.csv","Mooney-Rivlin","C10: 12.9093 | C01: 42.361","0.1631"
+"Sample3_0.2_radial.csv","Mooney-Rivlin","C10: 0.4743 | C01: 1.6698","0.0264"
+"Sample2_0.2_radial.csv","Mooney-Rivlin","C10: 0.6629 | C01: 2.6552","0.0443"
