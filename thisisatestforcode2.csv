@@ -1,0 +1,5 @@
+# Related Details: test1note1
+# Additional Notes: experimentaldetails
+
+File Name,Model,Optimized Parameters,RMSE
+"Sample2_0.2_radial.csv","Mooney-Rivlin","C10: 0.6629 | C01: 2.6552","0.0443"
