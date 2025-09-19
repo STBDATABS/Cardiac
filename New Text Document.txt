@@ -1,6 +1,0 @@
-
-
-# Details:
-Description: Test
-Creator: Test
-Link: Test
